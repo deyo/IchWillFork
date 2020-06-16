@@ -1,0 +1,10 @@
+*.rpyc
+*.rpymc
+*.pyo
+*.png
+*.ttf
+*.psd
+*.webp
+*.ogg
+*.exe
+lib/
