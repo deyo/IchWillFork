@@ -11,6 +11,7 @@ define v = Character("Valerie", image="valerie", ctc="ctc_charlotte", who_color=
 define l = Character("Laura", image="laura", ctc="ctc_charlotte", who_color="#ff8f00", window_background="custom_textbox", namebox_backgroud="custom_namebox")
 
 define sol = Character("Soldier", image="soldier", ctc="ctc_charlotte", who_color="#920009", window_background="custom_textbox", namebox_backgroud="custom_namebox")
+define gol = Character("Golem", image="soldier", ctc="ctc_charlotte", who_color="#920009", window_background="custom_textbox", namebox_backgroud="custom_namebox")
 define cla = Character("Claire", image="claire", ctc="ctc_charlotte", who_color="#fff08e", window_background="custom_textbox", namebox_backgroud="custom_namebox")
 define je = Character("Jean", image="jean", ctc="ctc_charlotte", who_color="#50a8d5", window_background="custom_textbox", namebox_backgroud="custom_namebox")
 

@@ -35,7 +35,7 @@ label first_day_charlotte:
     cla "My previous offer is still up if you want, handsome."
     je "Claire... Gross."
     cla "Whatever, I think he is hot."
-    p "Well, thanks, but it doesn't matter, none of you, whores, are really of my interest."
+    p "Well, thanks, but it doesn't matter, none of you whores, are really of interest to me."
     p "Specially queen whore over there."
     c "..."
     p "I'm more than enough to solve this problem, Charlotte. Bye."
@@ -63,7 +63,7 @@ label first_day_charlotte:
     c "Listen, I..."
     c @ p21_sad "I'm sorry, ok? I don't mean to cause you harm but..."
     c "I really need to keep my image around my friends."
-    p "Oh, so I'm not someone you would want to be seen around of, huh?"
+    p "Oh, so I'm not someone you would want to be seen around, huh?"
     c "Well... Kinda. I don't think you are a bad person, but... We are just too different, ok?"
     p "... Fuck you."
     c p41_sad "I really want to help Eileen, [povname]!"
@@ -103,7 +103,7 @@ label first_day_charlotte:
     c @ p21_sad "It's scary, ok?"
     p "And your question is...?"
     c "What is really going on? This isn't normal. Is Eileen ok? Where is she?"
-    p "Well, the truth is, Charlotte dissappeared right in front of me after she taught me the secret of going inside people's minds."
+    p "Well, the truth is, Eileen dissappeared right in front of me after she taught me the secret of going inside people's minds."
     c "..."
     c @ p21_angry "Do I look like an idiot!?"
     p "(Figured.)"
@@ -112,12 +112,12 @@ label first_day_charlotte:
     c "But then, why me?"
     p "As I said, I don't really even know that for sure myself, that's why I need you to answer a few questions."
     c @ p41_surprised "Oh... Alright, makes sense. What do you want to know."
-    p "Well, first of all, give me your opinion as to why do you think I would investigate you in regards of Eileen."
+    p "Well, first of all, give me your opinion as to why you think I would investigate you in regards to Eileen."
     p "If I'm honest, I'm not close to Eileen anymore. But... Even I know you are... Not nice with her."
     c @ p41_sad "..."
     c "It's true that I've not been the best person, but... Some time ago, during highschool, we were actually good friends."
     p "Well, that does explain your relationship with her." with flash
-    p "But what happened, then? Why did you stopped?"
+    p "But what happened, then? Why did you stop?"
     c @ p41_sad "..."
     c "The truth is... The truth is hard to say."
     p "WHAT!?" with vpunch
@@ -125,7 +125,7 @@ label first_day_charlotte:
     p "(Not to mention that this seems to be something she deeply cares about, which may help me getting inside her mind again.)"
     p "So can you please tell me what it is!"
     c p21_angry "Well, sorry! But this is something no one but Eileen really knows about!"
-    c "And I'm also sure is the reason why she-!"
+    c "And I'm also sure it's the reason why she-!"
     "As we were shouting at each other, we heard some voices approaching from the stairs."
     cla "I'm telling you, Charlotte didn't leave the campus."
     c p41_surprised "Those idiots are still here!?"
@@ -151,12 +151,12 @@ label first_day_charlotte:
     p "They can't only enter at any time, but if you thought they seeing us before was bad."
     p "What would they think if they see us here!?"
     c @ p41_serious "..."
-    p "Of course you didn't thought about it..."
+    p "Of course you didn't think about it..."
     c @ p41_sad "Listen, I'm sorry, I panicked, ok?"
     p "... Nevermind..."
-    p "If something, at least we can try to talk as much as we can here."
+    p "If nothing else, at least we can try to talk as much as we can here."
     p "Where were we?"
-    c "Hmmm... You were trying to know me a little better and..."
+    c "Hmmm... You were trying to get to know me a little better and..."
     c "..."
     p "And you didn't want to tell me why Eileen and you stopped being friends."
     c "... All I can say is that thanks to that, we drifted apart."
@@ -183,7 +183,7 @@ label first_day_charlotte:
     p "(Not to mention I think it's awful you still put your status over Eileen's well being, but that's something for later.)"
     p "Well, I will be lea-"
     c p41_surprised "WAIT!"
-    c "You can't. Remember my friends may still be around. Let me check ahead, ok? And then we can leave on our separate ways."
+    c "You can't. Remember my friends may still be around. Let me check ahead, ok? And then we can go our separate ways."
     p "(Lovely...)"
     p "Ok, at this point, do whatever you want, Charlotte..."
     c p41_sad "... Just wait for me a second, ok?"
@@ -195,7 +195,7 @@ label first_day_charlotte:
     c "HIDE!" with vpunch
     p "What?"
     c "They are coming. You- WE need to hide!"
-    "And without sparing another word. Charlotte pushed me into an stall."
+    "And without another word, Charlotte pushed me into a stall."
     scene black with fade
 label charlotte_scene1:
     "..."
@@ -219,18 +219,18 @@ label charlotte_scene1:
     je "... Hey, you were right, there are two pairs of legs on that stall."
     "Why the hell did she push me into the first stall?"
     "And I tried to whisper as low as I could to her."
-    p "Say something, if you don't, they hearing me will make it worse..."
+    p "Say something, if you don't, them hearing me will make it worse..."
     scene charlotte101 with dissolve
     c "Oh, girls, what are you doing here?"
     p "(... What?)"
     c "I'm kinda busy here. What do you want?"
-    cla "I knew it! In the camput bathroom? That's so bold!"
+    cla "I knew it! In the campus bathroom? That's so bold!"
     cla "Can we know who the lucky guy is this time?"
-    c "Why would you? You know he won't last a lot with me for you to meet him, hehe."
+    c "Why would you? You know he won't last long enough with me for you to meet him, hehe."
     je "Do you want privacy, though?"
     c "What? No, this may be educational for you."
     p "What...? What are you doing, let them leave!"
-    c "Shut up and follow me."
+    c "Shut up and follow my lead."
     c "We were already finished, but since you are there, wanna hear some interesting things?"
     p "(I couldn't even begin to guess what was going through her mind.)"
     p "(Maybe she lost it already.)"
@@ -285,8 +285,8 @@ label charlotte_scene1:
     "More loud sounds from the kiss grew in the air, this time, they were genuine."
     cla "..."
     je "..."
-    "The room was increasingly hotter, while her monans leakead a bit from our kisses."
-    "She didn't actually let go off me."
+    "The room was increasingly hotter, while her moans leakead a bit from our kisses."
+    "She didn't actually let go of me."
     "And I... Well, I played with her breasts more intensively than before."
     "And that's when I notice something really peculiar."
     scene charlotte111 with dissolve
@@ -297,9 +297,9 @@ label charlotte_scene1:
     "And I wasn't that far behind, if I didn't have my hands busy, I would be touching myself as well."
     cla "..."
     je "..."
-    "But I still knew there was people outside, listen to every movement we made."
-    "Even they grew silent for a while."
-    "It didn't matter, though, it felt like, right at that instant, the only think in existence were Charlotte and myself."
+    "But I still knew there were people outside, listening to every movement we made."
+    "Even they grew silent after a while."
+    "It didn't matter, though, it felt like, right at that instant, the only things in existence were Charlotte and myself."
     c "Hmmmm...! Ah...!"
     "Her moans increased rapidly, and her free hand was doing as much as possible to keep her from falling."
     "Pressed against me, but that only made her more and more closer, it almost felt as we were melting against each other."
@@ -313,7 +313,7 @@ label charlotte_scene1:
     scene charlotte113 with dissolve
     "And when I turned to look at Charlotte, she looked... Satisfied."
     "Her stare was blank and she could barely breath at all."
-    "On top of that, she had a little smile which meaning was understandable inmediately."
+    "On top of that, she had a little smile whose meaning was understandable inmediately."
     c "..."
     p "..."
     cla "..."
@@ -400,7 +400,7 @@ label second_day_charlotte:
     cla p21_happy "Hey, big guy, if you want you can hang around me."
     "The short girl said as she was winking at me."
     je "You fucking bitch..."
-    je "In any case, just stay away, creep, Charlotte have rejected you how many times already?"
+    je "In any case, just stay away, creep, Charlotte has rejected you how many times already?"
     p "I'm dealing with the owner of the circus, mate, not the clowns."
     je @ p21_surprised "...!"
     p "I only need Charlotte, and if it was up to me, I wouldn't be dealing with any of you, including you, Charlotte."
@@ -411,9 +411,9 @@ label second_day_charlotte:
     show charlotte p21_serious with dissolve
     c "..."
     p "... And if we go by previous encounters: Fuck off, Charlotte."
-    c p21_angry"I don't know how many times I've told you, don't board me like that."
+    c p21_angry "I don't know how many times I've told you, don't board me like that."
     c "You know very well we can't be seen together."
-    p "Oh, excuse me, I forgot that the dissappearance of your old friend can wait."
+    p "Oh, excuse me, I forgot that the disappearance of your old friend can wait."
     c p21_serious "{i}sigh{/i}... Listen, I'm sorry, ok, it is my fault, I didn't tell you anything after... The other day."
     c p21_angry "But it should be obvious by now, idiot!"
     p "I couldn't give less of a shit about your social status! Why can't you get that!?"
@@ -421,7 +421,7 @@ label second_day_charlotte:
     c p21_serious "... I don't have time for this bullshit, and I guess neither do you."
     p "In that we can agree on, then. Are you ready to help me or not."
     c "I insist, we can't be seen together. Even talking like this on the hallway is way too dangerous for me."
-    c "Tell you what, I actually have to start my cheerleading practice in some minutes, so I'm not really available right now."
+    c "Tell you what, I actually have to start my cheerleading practice in a few minutes, so I'm not really available right now."
     c "Once the practice is over, meet me in..."
     c @ p41_sad "..."
     c "In the third floor's bathroom."
@@ -441,14 +441,14 @@ label second_day_charlotte:
     c "That's a rude thing to say."
     show charlotte p21_serious with dissolve
     c "Alright, I'm here, now tell me again, how am I supposed to help you?"
-    p "I just need information. We were interrumpted when you were telling me about your relationship with Eileen."
+    p "I just need information. We were interrupted when you were telling me about your relationship with Eileen."
     c @ p41_surprised "R-right... Back then..."
     c @ p41_sad "..."
-    p "(Hm? What with that reaction?)"
+    p "(Hm? What's with that reaction?)"
     p "Are you ok, Charlotte?"
     c "Y-yes... Yes I am, idiot, ask away, what was it?"
     p "Well, you were about to tell me why you guys grew apart."
-    p "But then your friends interrumpted us and we-"
+    p "But then your friends interrupted us and we-"
     c p41_surprised "...!" with flash
     p "(Wait what? The Flash...!?)"
     p "(No time to waste!)"
@@ -467,7 +467,7 @@ label second_day_charlotte:
     p "...!" with vflash
     p "Yeah yeah, you will open fire."
     sol "Stranger... Please surrender yourself, there is no need to spill blood right here."
-    p "Very considerated of you soldier. Listen, don't worry, I won't really resist."
+    p "Very considerate of you soldier. Listen, don't worry, I won't really resist."
     p "(I need to get to the castle anyway, and this damn town is too damn big.)"
     sol "You made the right choice, stranger, follow me."
     scene black with fade
@@ -483,23 +483,23 @@ label second_day_charlotte:
     p "Come on, it was just a joke."
     sol "{i}sigh{/i}... Stranger, I don't know where you come from or if there's even anything beyond the borders of this city."
     sol "But with that attitude you will have a lot of troubles with our leader."
-    sol "I don't think you are a bad guy, I've never seen you around, but let me give you a simple advice..."
+    sol "I don't think you are a bad guy, I've never seen you around, but let me give you some simple advice..."
     sol "Keep your head down and your mouth shut. Our leader hates when things don't go her way."
     p "(Tell me something new...)"
-    sol "I can't really guarantee your safety even if you do that. This is the first time we have an stranger here since..."
+    sol "I can't really guarantee your safety even if you do that. This is the first time we've had a stranger here since..."
     sol "..."
     sol "Well, nevermind. Add to that fact that you escaped and our leader is on edge these days."
     sol "I just hope that at the very least you get a comfortable cell in the dungeon."
-    p "If it is like the last time, you can bet. But I see... Things seems pretty rough around here. How is your leader like?"
+    p "If it is like the last time, you can bet. But I see... Things seems pretty rough around here. What is your leader like?"
     sol "She... I... Listen, I shouldn't speak more than I'm allowed to."
     p "Or what?"
     sol "You'll find out soon enough."
     p "Ok. Cryptic. Anything else you can tell me about this town, it's citizens?"
     sol "We are all soldiers. We all attend to our leader, since our leader is our main concern and we all are her concern."
-    p "I see... So reason why the town is deserted isn't a curfew, it's more likely everyone is already enrolled."
+    p "I see... So reason why the town is deserted isn't a curfew, it's more like everyone is already enrolled."
     p "So is literally everyone a soldier?"
     sol "Yes."
-    p "Just last one question. Do the name \"Eileen Becker\" rings a bell?"
+    p "Just last one question. Does the name \"Eileen Becker\" ring a bell?"
     sol "I can't answer that question."
     p "... I see..."
     sol "..."
@@ -543,15 +543,15 @@ label second_day_charlotte:
     c "Soldiers. Take him to his cell."
     c "I will be there in a minute. I will punish you myself."
     scene black with fade
-    "And just like that, I was scorted to the old room I was in last time."
+    "And just like that, I was escorted to the same room I was in last time."
     scene bg castle_room with fade
     show soldier pp11 as soldier2 at charaleft with moveinleft
     show soldier pp11 as soldier3 at chararight with moveinright
     sol "..."
     p "Why do you even take orders from someone like her?"
     sol "We are all soldiers. We all attend to our leader, since our leader is our main concern and we all are her concern."
-    p "I've heard that before... But isn't she a despot? In what way do she take care of you?"
-    sol "She... She organize us, she give us order. Without her we would be aimless and..."
+    p "I've heard that before... But isn't she a despot? In what way does she take care of you?"
+    sol "She... She organizes us, she gives us order. Without her we would be aimless and..."
     c "You don't need to give explanations to a prisoner, soldier."
     sol "Y-YES! MA'AM!"
 label charlotte_scene2:
@@ -569,7 +569,7 @@ label charlotte_scene2:
     c "Soldiers, hold him."
     scene charlotte201 with dissolve
     "And as she gave that order, the soldiers inside and some more outside surrounded me and suspended me in the air."
-    c "First of all, you don't know me, I don't know you, you are just an invasor, and you are here by unknown means and reasons."
+    c "First of all, you don't know me, I don't know you, you are just an invader, and you are here by unknown means and reasons."
     p "..."
     c "Furthermore you keep disrespecting me, calling me by any other name than my proper title."
     c "You keep trying to humilliate me. So... It's only fair for me to do so, don't you think?"
@@ -577,7 +577,7 @@ label charlotte_scene2:
     scene charlotte202 with dissolve
     c "I'll do something you can't resist."
     p "... And, what do you exactly expect to achieve with that?"
-    c "Bring you to my knees, of course. Make you understand you error. And foremost, keep you in line with the others."
+    c "Bring you to your knees, of course. Make you understand your error. And foremost, keep you in line with the others."
     p "... That's the stupidest plan I've ever heard."
     scene charlotte203 with dissolve
     c "... And yet here you are being held by my soldiers."
@@ -588,7 +588,7 @@ label charlotte_scene2:
     c "You keep acting all cocky but, you have no control here, understood?"
     "She started touching my dick over my clothes."
     c "I wonder if you will be able to resist it."
-    p "Listen, if you touch my dick, I will have an erection, is that simple."
+    p "Listen, if you touch my dick, I will have an erection, it's that simple."
     scene charlotte203 with dissolve
     c "Just... Shut up."
     c "Soldiers, make sure to remove his clothing as well."
@@ -600,8 +600,8 @@ label charlotte_scene2:
     c "Another word and I'll tell my soldiers to gag you, throw you in the floor and beat you up."
     p "..."
     c "That's what I thought. Listen, I mean it, I just want this to be over with."
-    c "I'm not only busy, but you refuse to take fall in line. I... You are not like my soldiers, so I need to try something different."
-    c "I must admit, though, I'm very exciting to stimulate this big penis."
+    c "I'm not only busy, but you refuse to fall in line. I... You are not like my soldiers, so I need to try something different."
+    c "I must admit, though, I'm very excited to stimulate this big penis."
     c "I can tell how hot it is already from here."
     c "Hey, soldier, what do you think?"
     sol "It's big and stiff, my leader. What do you plan to do with it?"
@@ -642,13 +642,13 @@ label charlotte_scene2:
     p "..."
     scene charlotte206 with dissolve
     c "And soon you will not be able to live without me, stranger."
-    c "I must admit I was a bit worried about this technique. But you are an special case."
+    c "I must admit I was a bit worried about this technique. But you are a special case."
     scene charlotte207 with dissolve
     c "And for your own good, stranger, this better work. I need to condition you."
     c "No one is out of my reach, understood?"
     scene charlotte206 with dissolve
-    c "That's exactly why you penis is twitching constantly, isn't it?"
-    "I hate to admit it, but her constant breathing on my dick as she talks and her strokes are making me edge."
+    c "That's exactly why your penis is twitching constantly, isn't it?"
+    "I hate to admit it, but her constant breathing on my dick as she talks and her strokes are pushing me to the edge."
     scene charlotte207 with dissolve
     c "What happened with that cocky attitude of before? Come on, say something."
     p "..."
@@ -710,7 +710,7 @@ label charlotte_scene2:
     scene charlotte214 with dissolve
     p "What about Eileen? Please I need answers!"
     scene charlotte213 with dissolve
-    sol "Our leader already told you she won't be interrumpted."
+    sol "Our leader already told you she won't be interrupted."
     scene charlotte214 with dissolve
     sol "Please refer to us instead."
     scene charlotte213 with dissolve
@@ -720,7 +720,7 @@ label charlotte_scene2:
     scene charlotte213 with dissolve
     p "Of course it is... That's not helpful at all!"
     scene charlotte214 with dissolve
-    sol "I'm very sorry stranger, but those are our leader orders."
+    sol "I'm very sorry stranger, but those are our leader's orders."
     scene charlotte213 with dissolve
     sol "However, I can tell you something: She is a prisoner, just like you."
     scene charlotte212 with dissolve
@@ -750,7 +750,7 @@ label charlotte_scene2:
     scene charlotte213 with dissolve
     "She kept doing it without even caring about my \"filthy\" dick."
     scene charlotte214 with dissolve
-    "It was happening again. The pleasure was raising despite my frustration."
+    "It was happening again. The pleasure was rising despite my frustration."
     p "(I hate to admit it, but Charlotte is regaining full control of the situation.)"
     scene charlotte212 with dissolve
     c "Nothing else to say, stranger? That's great!"
@@ -859,10 +859,10 @@ label charlotte_scene2:
             p "But I couldn't...!"
             c "Shut up."
             c "But I hope this served for you to learn a lesson, come on stranger, be honest."
-            c "How it felt? And you better give me a good answer."
+            c "How did it feel? And you better give me a good answer."
             p "... It felt good."
             c "That's better stranger, I will be leaving."
-    c "Soldiers, a towell, please."
+    c "Soldiers, a towel, please."
     scene black with fade
     "She was cleaning herself and indeed, was leaving, but I couldn't leave things like this."
     $ renpy.end_replay()
@@ -872,16 +872,16 @@ label charlotte_scene2:
     show soldier pp11 as soldier3 at chararightmost with dissolve
     show charlotte pp11_neutral with dissolve
     c "What is it, stranger? Do you want more? I'm sorry, but you will have to wait."
-    p "I mean it, what with Eileen, that's the only thing I need."
+    p "I mean it, what's up with Eileen, that's the only thing I need."
     p "I don't need nor want to hide anything from you, but please, I need the information."
     c pp21_serious "..."
-    sol "Our leader already told you that is non of your business."
+    sol "Our leader already told you that is none of your business."
     sol "Even after receiving such treatment from our leader, you still choose to disrespect her?"
     sol "Leader, I request permission to punish the stranger."
-    c "Save it, we are done here. Soldiers, follow me, keep the stranger in his cell, and put guards in the door."
+    c "Save it, we are done here. Soldiers, follow me, keep the stranger in his cell, and put guards on the door."
     c "You don't want him escaping again, do you?"
     c "Y-yes, ma'am!"
-    c "... You better think about this through, stranger."
+    c "... You better think this through, stranger."
     scene black with fade
     "Saying that, she closed the door, and left me there without escape."
     "I will be free in a couple of hours, but... This is a waste of time."
@@ -3140,7 +3140,7 @@ label charlotte_scene5:
     scene charlotte511 with dissolve
     cla "Look at her go! She is rocking her hips! Man, what a whole, hehe."
     scene charlotte512 with dissolve
-    j "Hm..."
+    je "Hm..."
     scene charlotte511 with dissolve
     "As she is pointing out, Charlotte's moving her hips by herself."
     scene charlotte512 with dissolve
